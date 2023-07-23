@@ -1,0 +1,69 @@
+
+body{
+  background-color:#FFF;
+  margin: 0;
+  padding: 0;
+
+}
+
+.dotted-hr {
+	border-style: none;
+    width: 5%;
+    border-top-style: dotted;
+    border-width: 5px;
+	border-color:#609;	
+	
+}
+
+.page-title {
+	margin: 0;
+	color: #039;
+	font-family: 'Poppins', sans-serif;
+	text-align: center;
+	
+
+}
+
+.title{
+	text-align: center;
+	font-family: 'Poppins', sans-serif;
+	font-size: 25px;
+	color:#006;
+	
+}
+
+h1{
+	margin: 0;
+	color:#000;
+	font-family: 'Poppins', sans-serif;
+}
+
+p{
+	font-family: 'Poppins', sans-serif;
+	color:#000;
+	font-size: 20px;
+	text-align: justify;
+	line-height: 1.25;	
+}
+
+.ul{
+	background-color: #BBD6F0;
+    text-align: center;
+	position: relative;
+	filter:  brightness(1);
+
+}
+
+.mount{
+	width: 100%;
+	border: 100;
+	border-color: #066964;
+}
+
+.pacman{
+	background-color: #BBD6F0;
+	border: 100;
+	border-color: #BBD6F0;
+}
+
+
